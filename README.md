@@ -54,5 +54,3 @@ Here are a few of my proudest projects:
 ### 📊 My GitHub Stats
 
 ![Amey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmeyPacharkar1896&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeyPacharkar1896&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
