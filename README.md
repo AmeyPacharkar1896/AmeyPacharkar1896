@@ -12,7 +12,7 @@ I am a final-year Computer Engineering student specializing in **Backend & Syste
 *   🔭 I’m currently leading my final year project, **SmartDispatch**, as the System Architect, designing a complex AI-driven logistics platform.
 *   🌱 I’m currently deepening my knowledge in **Data Structures & Algorithms** and **System Design**.
 *   💬 Ask me about **Python, FastAPI, Node.js, and System Architecture**.
-*   📫 How to reach me: **amey.pacharkar076@gmail.com**
+*   📫 How to reach me: **ameypacharkar076@gmail.com**
 *   ⚡ Fun fact: I'm also a volunteer and lead mindfulness workshops!
 
 ---
